@@ -1,4 +1,4 @@
-# ML100Days
+# NLP ML100Days
 
 ## Part1 - NLP經典機器學習馬拉松
 * Day01-02 Python 文字處理函數介紹
