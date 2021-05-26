@@ -9,3 +9,4 @@
 * Day08-09 基礎語言模型：N-Gram
 * Day10-11 NLP詞性標註(Part-of-speech tagging)
 * Day12 詞袋模型(Bag-of-words)
+* Day13 詞幹/詞條提取(Stemming and Lemmatization)
