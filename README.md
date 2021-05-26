@@ -11,3 +11,4 @@
 * Day12 詞袋模型(Bag-of-words)
 * Day13 詞幹/詞條提取(Stemming and Lemmatization)
 * Day14 文字預處理
+* Day15 Term Frequency - Inverted Document Frequency (TF-IDF)
