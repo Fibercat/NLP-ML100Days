@@ -12,3 +12,4 @@
 * Day13 詞幹/詞條提取(Stemming and Lemmatization)
 * Day14 文字預處理
 * Day15 Term Frequency - Inverted Document Frequency (TF-IDF)
+* Day16-17 計數方法詞向量介紹
