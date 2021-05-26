@@ -8,3 +8,4 @@
 * Day07 使用 CkipTagger 進行斷詞
 * Day08-09 基礎語言模型：N-Gram
 * Day10-11 NLP詞性標註(Part-of-speech tagging)
+* Day12 詞袋模型(Bag-of-words)
