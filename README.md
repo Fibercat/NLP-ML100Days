@@ -10,3 +10,4 @@
 * Day10-11 NLP詞性標註(Part-of-speech tagging)
 * Day12 詞袋模型(Bag-of-words)
 * Day13 詞幹/詞條提取(Stemming and Lemmatization)
+* Day14 文字預處理
