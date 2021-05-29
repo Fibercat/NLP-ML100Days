@@ -14,4 +14,4 @@
 * Day15 Term Frequency - Inverted Document Frequency (TF-IDF)
 * Day16-17 計數方法詞向量介紹
 * Day19 K-Fold分隔資料
-* Day20-21 KNN K-近鄰演算法實作
+* Day20 KNN K-近鄰演算法實作
