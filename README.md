@@ -15,4 +15,4 @@
 * Day16-17 計數方法詞向量介紹
 * Day19 K-Fold分隔資料
 * Day20 KNN K-近鄰演算法實作
-* Day21-22 Naive Bayes 單純貝氏分類器
+* Day21-23 Naive Bayes 單純貝氏分類器
