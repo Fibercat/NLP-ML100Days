@@ -15,6 +15,7 @@
 * Day16-17 計數方法詞向量介紹
 * Day19 K-Fold分隔資料
 * Day20 KNN K-近鄰演算法實作
-* Day21-23 Naive Bayes 單純貝氏分類器
-* Day24 Decision Tree 決策樹
-* Day25 Random Forest 隨機森林
+* Day21-23 Naive Bayes 單純貝氏分類器演算法
+* Day24 Decision Tree 決策樹演算法
+* Day25 Random Forest 隨機森林演算法
+* Day26 Adaboost演算法
