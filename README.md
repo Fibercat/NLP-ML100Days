@@ -16,3 +16,5 @@
 * Day19 K-Fold分隔資料
 * Day20 KNN K-近鄰演算法實作
 * Day21-23 Naive Bayes 單純貝氏分類器
+* Day24 Decision Tree 決策樹
+* Day25 Random Forest 隨機森林
